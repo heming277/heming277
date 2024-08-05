@@ -6,18 +6,16 @@ I'm a passionate software engineer with a knack for crafting efficient, scalable
 
 ## 🛠 Tech Stack
 
-```python
-tech_stack = {
-    "Languages": ["Python", "JavaScript", "TypeScript", "Java", "C#", "C++", "Go", "Rust", "Scala", "Swift"],
-    "Frontend": ["React", "Next.js", "Vue", "HTML", "CSS", "Tailwind CSS"],
-    "Backend": ["Node.js", "Django", "Flask", "FastAPI", "Spring Boot"],
-    "AI/ML": ["PyTorch", "TensorFlow", "JAX", "Sklearn", "Hugging Face Transformers", "LangChain"],
-    "Data": ["Pandas", "Numpy", "Matplotlib", "Spark", "Hadoop", "Elasticsearch"],
-    "DevOps": ["Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Terraform"],
-    "Cloud": ["AWS", "GCP", "Azure", "Vercel"],
-    "Databases": ["MongoDB", "PostgreSQL", "Redis", "Firestore"]
-}
-```
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python, JavaScript, TypeScript, Java, C#, C++, Go, Rust, Scala, Swift |
+| Frontend | React, Next.js, Vue, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Django, Flask, FastAPI, Spring Boot |
+| AI/ML | PyTorch, TensorFlow, JAX, Sklearn, Hugging Face Transformers, LangChain |
+| Data | Pandas, Numpy, Matplotlib, Spark, Hadoop, Elasticsearch |
+| DevOps | Docker, Kubernetes, Jenkins, GitHub Actions, Terraform |
+| Cloud | AWS, GCP, Azure, Vercel |
+| Databases | MongoDB, PostgreSQL, Redis, Firestore |
 
 ## 🌟 Featured Projects
 
@@ -34,9 +32,9 @@ tech_stack = {
 - Diving deeper into distributed systems and cloud-native architectures
 - Tinkering with Rust for high-performance applications
 
-## 📈 GitHub Stats
+## 📊 GitHub Language Stats
 
-![Heming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heming277&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heming277&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
