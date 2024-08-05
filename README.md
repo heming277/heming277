@@ -43,6 +43,16 @@ I love building efficient and scalable software. From distributed systems to AI/
 - [PixelShare](https://github.com/heming277/pixelshare): High-performance file sharing app built with Rust
 - [DistributedWebCrawlerPipeline](https://github.com/heming277/DistributedWebCrawlerPipeline): Python-based distributed system for crawling AI and tech news
 
+
+## 📊 GitHub Stats
+
+![Heming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heming277&show_icons=true&theme=radical)
+
+## 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heming277&layout=compact&langs_count=10&hide=html,css)
+
+
 ## 💡 What I'm Up To
 
 - Exploring the intersection of AI and education technology
