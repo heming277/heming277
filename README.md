@@ -17,6 +17,22 @@ I'm a passionate software engineer with a knack for crafting efficient, scalable
 | Cloud | AWS, GCP, Azure, Vercel |
 | Databases | MongoDB, PostgreSQL, Redis, Firestore |
 
+## 🔥 Skills Highlight
+
+- **Languages:** Python, JavaScript, TypeScript, Rust, C++, Go
+- **AI/ML:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain
+- **Web Development:** React, Next.js, Node.js, Django, FastAPI
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform
+- **Data Engineering:** Spark, Hadoop, Elasticsearch, PostgreSQL, MongoDB
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ## 🌟 Featured Projects
 
 - [LearnSpark.ca](https://github.com/heming277/LearnSpark): An innovative e-learning platform with AI-powered tutoring (Private repo)
@@ -31,10 +47,6 @@ I'm a passionate software engineer with a knack for crafting efficient, scalable
 - Learning and contributing to projects in the AI/ML space
 - Diving deeper into distributed systems and cloud-native architectures
 - Tinkering with Rust for high-performance applications
-
-## 📊 GitHub Language Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heming277&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
