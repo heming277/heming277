@@ -19,12 +19,6 @@ I love building efficient and scalable software. From distributed systems to AI/
 
 ## 🔥 Skills Highlight
 
-- **Languages:** Python, JavaScript, TypeScript, Rust, C++, Go
-- **AI/ML:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain
-- **Web Development:** React, Next.js, Node.js, Django, FastAPI
-- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform
-- **Data Engineering:** Spark, Hadoop, Elasticsearch, PostgreSQL, MongoDB
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
