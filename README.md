@@ -17,7 +17,18 @@ I love building efficient and scalable software. From distributed systems to AI/
 | Cloud | AWS, GCP, Azure, Vercel |
 | Databases | MongoDB, PostgreSQL, Redis, Firestore |
 
-## 🔥 Skills Highlight
+## 🌟 Featured Projects
+
+- [LearnSpark.ca](https://github.com/heming277/LearnSpark): An e-learning platform with customized AI chat (Private repo)
+- [VisualizeAI](https://github.com/heming277/VisualizeAI): Open-source tool for visualizing Transformer attention mechanisms
+- [DistributedCluster_MLTrainer](https://github.com/heming277/DistributedCluster_MLTrainer): Scalable ML model training with PyTorch, TensorFlow, and Sklearn
+- [PixelShare](https://github.com/heming277/pixelshare): High-performance file sharing app built with Rust
+- [DistributedWebCrawlerPipeline](https://github.com/heming277/DistributedWebCrawlerPipeline): Python-based distributed system for crawling AI and tech news
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heming277&layout=compact&langs_count=10&hide=html,css)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,24 +45,6 @@ I love building efficient and scalable software. From distributed systems to AI/
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-## 🌟 Featured Projects
-
-- [LearnSpark.ca](https://github.com/heming277/LearnSpark): An e-learning platform with customized AI chat (Private repo)
-- [VisualizeAI](https://github.com/heming277/VisualizeAI): Open-source tool for visualizing Transformer attention mechanisms
-- [DistributedCluster_MLTrainer](https://github.com/heming277/DistributedCluster_MLTrainer): Scalable ML model training with PyTorch, TensorFlow, and Sklearn
-- [PixelShare](https://github.com/heming277/pixelshare): High-performance file sharing app built with Rust
-- [DistributedWebCrawlerPipeline](https://github.com/heming277/DistributedWebCrawlerPipeline): Python-based distributed system for crawling AI and tech news
-
-
-## 📊 GitHub Stats
-
-![Heming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heming277&show_icons=true&theme=radical)
-
-## 🔝 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heming277&layout=compact&langs_count=10&hide=html,css)
-
 
 ## 💡 What I'm Up To
 
