@@ -1,3 +1,12 @@
+
+<style>
+  .profile-readme-corner,
+  .js-profile-editable-replace {
+    display: none !important;
+  }
+</style>
+
+
 # 👋 Hello, I'm Heming Liu
 
 ## 🚀 Tech Enthusiast & Full-Stack Engineer
